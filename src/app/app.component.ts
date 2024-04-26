@@ -12,8 +12,15 @@ import { Title } from '@angular/platform-browser';
   <hr>
   <h1>Ders-3</h1>
   <app-directives-3></app-directives-3>
+  <hr>
   <h1>Ders-4</h1>
   <app-custom-directive-4></app-custom-directive-4>
+  <hr>
+  <h1>Ders 5</h1>
+  <app-structural-directive-5></app-structural-directive-5>
+  <hr>
+  <h1>Ders 6</h1>
+  <app-pipes-and-custom-pipes-6></app-pipes-and-custom-pipes-6>
   `,
   styleUrls: ['./app.component.scss']
 })
